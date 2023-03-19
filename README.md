@@ -1,1 +1,5 @@
-# Algalb-loom-prediction
+# Algalb-loom-prediction using Auto-ARIMA
+Algal bloom is a natural phenomenon that occurs when there is an excess growth of algae in water bodies. This can cause several issues including depletion of oxygen levels, release of harmful toxins and death of aquatic life. Therefore, it is important to predict and prevent the occurrence of algal blooms.
+One way to predict algal blooms is by using time series analysis with the Auto ARIMA algorithm. Auto ARIMA is an automated forecasting algorithm that determines the best parameters for an ARIMA model based on the data. It takes into account the seasonality and trend of the data, making it a suitable tool for predicting algal blooms.
+By using historical data of water quality parameters such as temperature, pH, and nutrient levels, along with algal bloom occurrence data, the Auto ARIMA algorithm can be trained to forecast future algal bloom events. This information can be used by policymakers and environmentalists to take preventive measures and reduce the impact of algal blooms on the ecosystem.
+In this project, we will discuss the implementation of the Auto ARIMA algorithm for algal bloom prediction and its potential benefits for the environment
